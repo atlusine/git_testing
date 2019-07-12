@@ -1,1 +1,2 @@
-# git_testing
+My Project
+My Project2
